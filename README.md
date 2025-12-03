@@ -34,4 +34,4 @@ streamlit run app.py
 
 
 
-![Prediction Example](/docs/images/prediction_example.png)
+
