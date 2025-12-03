@@ -1,0 +1,42 @@
+text,label
+"Breaking: celebrity X died in crash",rumour
+"Official hospital statement: X is alive",not_rumour
+"Govt released new policy today",not_rumour
+"Read this shocking claim about vaccines",rumour
+"New study shows healthy benefits of workout",not_rumour
+"Anonymous source says company is bankrupt",rumour
+"Breaking: city to go into lockdown tomorrow",rumour
+"Local authority tweeted official schedule today",not_rumour
+"Shocking: new pill promises instant weight loss",rumour
+"Hospital confirms patient recovered and released",not_rumour
+"Celebrity posts photo from vacation, not dead",not_rumour
+"Viral post claims water turns into gold",rumour
+"New tax change announced on government website",not_rumour
+"Anonymous blog claims school to close next week",rumour
+"Company press release confirms profits up",not_rumour
+"Rumour: famous actor arrested — no official source",rumour
+"Confirmed: festival dates released by organizers",not_rumour
+"Shared image claims to show alien base",rumour
+"Mayor's office releases safety guidelines",not_rumour
+"Post claims miracle cure for diabetes",rumour
+"University posts exam schedule on portal",not_rumour
+"Message: bank is closing accounts tomorrow",rumour
+"Official metro account reports service update",not_rumour
+"Leaflet claims new ingredient is banned",rumour
+"Scientific journal publishes new study on vaccines",not_rumour
+"Screenshot claims celebrity endorsement — fake",rumour
+"Company HR announces new hiring drive",not_rumour
+"Forum rumor that ATM are running out of cash",rumour
+"Police department posts missing person alert",not_rumour
+"Tweet claims city will be flooded next week",rumour
+"News site reports verified election results",not_rumour
+"Post says phone company giving free phones",rumour
+"School posts official holiday notice",not_rumour
+"Chain message claims free vouchers for everyone",rumour
+"Mayor shares photos of new public park",not_rumour
+"Rumour: bank hacked — no official report",rumour
+"Local health dept posts vaccination schedule",not_rumour
+"Viral video claims instant wealth scheme works",rumour
+"TV channel confirms live event schedule",not_rumour
+"Message claiming celebrity endorses scam",rumour
+"Official railway account posts delay notice",not_rumour
