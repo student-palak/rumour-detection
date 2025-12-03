@@ -23,6 +23,7 @@ python src/preprocess.py data/sample.csv data/cleaned_sample.csv
 python src/train_baseline.py data/cleaned_sample.csv models/model.joblib models/vect.joblib
 
 streamlit run app.py
+```   <!-- 🔥 THIS LINE WAS MISSING -->
 
 ## 📸 Screenshots
 
@@ -31,4 +32,3 @@ streamlit run app.py
 
 ### Prediction Example
 ![Prediction Example](/docs/images/prediction_example.png)
-
