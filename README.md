@@ -23,3 +23,12 @@ python src/preprocess.py data/sample.csv data/cleaned_sample.csv
 python src/train_baseline.py data/cleaned_sample.csv models/model.joblib models/vect.joblib
 
 streamlit run app.py
+
+## 📸 Screenshots
+
+### Streamlit App
+![Streamlit App](docs/images/streamlit_app.png)
+
+### Prediction Example
+![Prediction Example](docs/images/prediction_example.png)
+
