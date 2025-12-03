@@ -27,11 +27,13 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Streamlit App
-![Streamlit App](https://github.com/student-palak/rumour-detection/raw/main/docs/images/streamlit_app.png)
+![Streamlit App](docs/images/streamlit_app.png)
 
 ### Prediction Example
-![Prediction Example](https://github.com/student-palak/rumour-detection/raw/main/docs/images/prediction_example.png)
+![Prediction Example](docs/images/prediction_example.png)
 
 
 
