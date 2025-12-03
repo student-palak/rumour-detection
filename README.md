@@ -24,7 +24,7 @@ python src/train_baseline.py data/cleaned_sample.csv models/model.joblib models/
 
 streamlit run app.py
 
-📸 Screenshots
+## 📸 Screenshots
 
 ![Streamlit App](docs/images/streamlit_app.png)
 ![Prediction Example](docs/images/prediction_example.png)
