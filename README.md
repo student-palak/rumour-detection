@@ -29,7 +29,6 @@ streamlit run app.py
 ### Streamlit App
 ![Streamlit App](/docs/images/streamlit_app.png)
 
-
 ### Prediction Example
 ![Prediction Example](/docs/images/prediction_example.png)
 
