@@ -1,3 +1,14 @@
+# Rumour Detection
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![Status](https://img.shields.io/badge/Status-Prototype-green.svg)
+
+A simple end-to-end **Rumour Detection** project using TF-IDF and Logistic Regression.  
+Includes preprocessing, training, prediction, and a Streamlit UI.
+
+---
+
 ## 🚀 Demo
 
 ### Run locally
