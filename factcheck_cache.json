@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿{
   "en:The mayor said 200 new cases were reported.": {
     "fetched_at": 0,
@@ -36,3 +37,103 @@
     }
   }
 }
+=======
+{
+  "en:Vaccines cause autism.": {
+    "fetched_at": 1764860776,
+    "resp": {
+      "claims": [
+        {
+          "text": "\"The claim 'vaccines do not cause autism' is not an evidence-based claim\"",
+          "claimant": "US Centers for Disease Control and Prevention",
+          "claimDate": "2025-11-19T00:00:00Z",
+          "claimReview": [
+            {
+              "publisher": {
+                "name": "AFP Fact Check",
+                "site": "factcheck.afp.com"
+              },
+              "url": "https://factcheck.afp.com/doc.afp.com.84N6663",
+              "title": "CDC edits website to include false claims about vaccines and autism",
+              "reviewDate": "2025-11-20T23:50:00Z",
+              "textualRating": "False",
+              "languageCode": "en"
+            }
+          ]
+        },
+        {
+          "text": "Childhood vaccinations are linked to an increase in autism cases in India",
+          "claimant": "Sridhar Vembu",
+          "claimDate": "2025-10-28T00:00:00Z",
+          "claimReview": [
+            {
+              "publisher": {
+                "name": "Medical Dialogues",
+                "site": "medicaldialogues.in"
+              },
+              "url": "https://medicaldialogues.in/fact-check/fact-check-zohos-sridhar-vembus-claim-that-childhood-vaccines-are-linked-to-rising-autism-rates-is-false-157691",
+              "title": "Fact Check: Zoho's Sridhar Vembu's claim that childhood vaccines ...",
+              "reviewDate": "2025-10-30T00:00:00Z",
+              "textualRating": "The user's claim is false.",
+              "languageCode": "en"
+            }
+          ]
+        },
+        {
+          "text": "A study testing COVID-19 vaccines in pregnant rats supports the idea that \"vaccines and autism have always been linked.\" False.",
+          "claimant": "Candace Owens",
+          "claimDate": "2024-01-13T00:00:00Z",
+          "claimReview": [
+            {
+              "publisher": {
+                "name": "FactCheck.org",
+                "site": "factcheck.org"
+              },
+              "url": "https://www.factcheck.org/2024/01/scicheck-viral-posts-misuse-rat-study-to-make-unfounded-claims-about-covid-19-vaccines-and-autism/",
+              "title": "Viral Posts Misuse Rat Study to Make Unfounded Claims About ...",
+              "textualRating": "False",
+              "languageCode": "en"
+            }
+          ]
+        },
+        {
+          "text": "\"The Amish are a perfect example of a large group of people who are largely unvaccinated and there's no autism.\"",
+          "claimant": "Steve Kirsch",
+          "claimDate": "2023-06-09T00:00:00Z",
+          "claimReview": [
+            {
+              "publisher": {
+                "name": "FactCheck.org",
+                "site": "factcheck.org"
+              },
+              "url": "https://www.factcheck.org/2023/07/scicheck-false-claim-about-cause-of-autism-highlighted-on-pennsylvania-senate-panel/",
+              "title": "False Claim About Cause of Autism Highlighted on Pennsylvania ...",
+              "textualRating": "False",
+              "languageCode": "en"
+            }
+          ]
+        },
+        {
+          "text": "\u201cThere\u2019s a study that came out last week of 47,000 9-year-olds in the Medicaid system in Florida \u2014 I think a Louisiana scientist called Mawson \u2014 that shows the opposite,\" meaning that vaccines cause autism.",
+          "claimant": "Robert F. Kennedy Jr.",
+          "claimDate": "2025-01-30T00:00:00Z",
+          "claimReview": [
+            {
+              "publisher": {
+                "name": "FactCheck.org",
+                "site": "factcheck.org"
+              },
+              "url": "https://www.factcheck.org/2025/01/rfk-jr-cites-flawed-paper-claiming-link-between-vaccines-and-autism-in-hhs-confirmation-hearing/",
+              "title": "RFK Jr. Cites Flawed Paper Claiming Link Between Vaccines and ...",
+              "reviewDate": "2025-01-31T00:00:00Z",
+              "textualRating": "Flawed Paper",
+              "languageCode": "en"
+            }
+          ]
+        }
+      ],
+      "nextPageToken": "CAU"
+    }
+  }
+}
+>>>>>>> main

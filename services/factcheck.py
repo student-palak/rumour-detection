@@ -31,6 +31,10 @@ def search_claims(query, language="en", page_size=5, use_cache=True):
 
     svc = _service()
     if svc is None:
+<<<<<<< HEAD
+=======
+        # dev fallback: no key -> return empty claims list
+>>>>>>> main
         return {"claims": []}
 
     req = svc.claims().search(query=query, languageCode=language, pageSize=page_size)
