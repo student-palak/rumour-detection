@@ -1,0 +1,38 @@
+﻿{
+  "en:The mayor said 200 new cases were reported.": {
+    "fetched_at": 0,
+    "resp": {
+      "claims": [
+        {
+          "text": "The mayor said 200 new cases were reported.",
+          "claimReview": [
+            {
+              "publisher": { "name": "FactCheck Example" },
+              "url": "https://factcheck.example/report-123",
+              "title": "False — No evidence for 200 new cases",
+              "textualRating": "False"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "en:vaccine causes autism": {
+    "fetched_at": 0,
+    "resp": {
+      "claims": [
+        {
+          "text": "Vaccines cause autism.",
+          "claimReview": [
+            {
+              "publisher": { "name": "ExampleFact" },
+              "url": "https://examplefact.org/vaccine-autism",
+              "title": "False — Extensive research finds no link",
+              "textualRating": "False"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
