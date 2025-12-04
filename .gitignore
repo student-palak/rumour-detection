@@ -12,3 +12,13 @@ venv/
 *.cache
 venv/
 venv/
+
+# Python caches and venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+# Data files
+data/*.csv
+
