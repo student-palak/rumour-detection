@@ -1,7 +1,7 @@
 # src/predict.py
 import joblib
 import sys
-from preprocess import clean_text
+from src.preprocess import clean_text
 
 def predict(text, model_path="models/model.joblib", vect_path="models/vect.joblib"):
     # Load vectorizer and model
